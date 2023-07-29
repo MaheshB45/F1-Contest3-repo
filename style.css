@@ -1,0 +1,15 @@
+
+/* custom container1 css section */
+.container1{
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.image{
+    width: 320px;
+    height: 210px;
+    border-radius: 5px;
+}
+
